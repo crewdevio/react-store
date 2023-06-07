@@ -1,9 +1,9 @@
 {
-  "name": "react-store",
+  "name": "react-store-js",
   "version": "1.0.0",
   "description": "state manager for react based on svelte/store",
   "main": "dist/index.js",
-  "module": "dist/react-store.esm.js",
+  "module": "dist/react-store-js.esm.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
